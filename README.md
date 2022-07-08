@@ -9,4 +9,4 @@ A simple visualizer for A* path finding algorithm using python Pygame. We can mo
 * You can Press C to erase everything and set up the grid again.
 # Contributors
 * Nikhil Saharan (me)
-* Sachin Mahawar (his github is sachin737)
+* Sachin Mahawar (his github: [sachin737](https://github.com/Sachin737))
