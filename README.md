@@ -8,5 +8,5 @@ A simple visualizer for A* path finding algorithm using python Pygame. We can mo
 * You can reset a cell on the grid by RIGHT-CLICK.
 * You can Press C to erase everything and set up the grid again.
 # Contributors
-* Nikhil (me)
+* Nikhil Saharan (me)
 * Sachin Mahawar (his github is sachin737)
