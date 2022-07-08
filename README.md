@@ -1,5 +1,5 @@
 # A*-search-visualizer
-A simple visualizer for A* path finding algorithm using python Pygame.
+A simple visualizer for A* path finding algorithm using python Pygame. We can move in UP, DOWN, LEFT and RIGHT directions from a cell in the grid.
 # Instructions
 * Run the AstarVisualizer.py file. 
 * Mark the start and end points on the grid thus showing up. 
