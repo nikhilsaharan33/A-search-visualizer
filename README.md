@@ -1,4 +1,4 @@
-# A-search-visualizer
+# A*-search-visualizer
 A simple visualizer for A* path finding algorithm using python Pygame.
 # Instructions
 * Run the AstarVisualizer.py file. 
