@@ -181,7 +181,7 @@ def Astar_algorithm(draw, grid, start, end):
     f_score = {val: float("inf") for row in grid for val in row}
     f_score[start] = 0 + h(start.getPos(), end.getPos())
 
-    Open_Set_check = {start}
+    Open_Set_check = {start}  # this is to check if a node is in the Priority Queue or not
 
     while not Open_Set.empty():
         for event in pg.event.get():
