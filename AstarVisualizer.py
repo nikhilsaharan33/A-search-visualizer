@@ -140,6 +140,7 @@ def CreatePath(parent, end, draw):
     end.MakeStart()
 
 
+# Optional implementation by bfs
 def bfs(draw, grid, start, end):
     q = queue.Queue()
     parent = {}
