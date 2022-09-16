@@ -7,6 +7,3 @@ A simple visualizer for A* path finding algorithm using python Pygame. We can mo
 * Press SPACE to run the path finder.  
 * You can reset a cell on the grid by RIGHT-CLICK.
 * You can Press C to erase everything and set up the grid again.
-# Contributors
-* Nikhil Saharan (me)
-* Sachin Mahawar (his github: [sachin737](https://github.com/Sachin737))
